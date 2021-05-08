@@ -70,7 +70,10 @@ Reklamlar, kullanıcılar tarafından yaptırılır sizlerde reklam yaptırmak i
 
 
 
-    ​	
+
+
+
+    
 **Sizin Haklarınız**
 
     Sizin haklarınız, reklamlarda kullanabileceğiniz birtakım yetkiler gibidir.
@@ -89,7 +92,7 @@ Reklamlar, kullanıcılar tarafından yaptırılır sizlerde reklam yaptırmak i
 
     Haklarına sahipsiniz, **unutmayın hiçbir şekilde iade isteme hakkında sahip değilsiniz.**
 
-  ​	
+  
 
   Panve Code,
   Yönetim Kurulu 
