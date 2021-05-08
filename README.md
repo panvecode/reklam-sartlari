@@ -16,7 +16,7 @@ Reklamlar, kullanıcılar tarafından yaptırılır sizlerde reklam yaptırmak i
 
   ​	
 
-  **Bilgilendirme**
+**Bilgilendirme**
 
   <u>Ücret ödenen gift sunucular dahil olmak üzere legit olmayan sunucuların reklamlarını feshetme hakkına sahibiz</u>.
 
@@ -26,7 +26,7 @@ Reklamlar, kullanıcılar tarafından yaptırılır sizlerde reklam yaptırmak i
 
   
 
-  **Reklam Koşulları**
+**Reklam Koşulları**
 
   Önemli maddeler ilk bölümlere, kullanıcıların göremesi amaçlı yerleştirilmiştir.
 
@@ -50,7 +50,7 @@ Reklamlar, kullanıcılar tarafından yaptırılır sizlerde reklam yaptırmak i
 
     ​	
 
-    **Haklarımız**
+**Haklarımız**
 
     Bu bölümde kullanabileceğimiz haklarımız bulunmaktadır.
 
@@ -69,8 +69,7 @@ Reklamlar, kullanıcılar tarafından yaptırılır sizlerde reklam yaptırmak i
     Hakkına sahibiz, **unutmayın panve code yetkilileri geçerli bir neden olmasa dahi sunucu reklamlarını kaldırabilir.**
 
     ​	
-
-    **Sizin Haklarınız**
+**Sizin Haklarınız**
 
     Sizin haklarınız, reklamlarda kullanabileceğiniz birtakım yetkiler gibidir.
 
@@ -91,6 +90,5 @@ Reklamlar, kullanıcılar tarafından yaptırılır sizlerde reklam yaptırmak i
   ​	
 
   Panve Code,
-
   Yönetim Kurulu 
 
