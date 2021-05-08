@@ -68,6 +68,8 @@ Reklamlar, kullanıcılar tarafından yaptırılır sizlerde reklam yaptırmak i
 
     Hakkına sahibiz, **unutmayın panve code yetkilileri geçerli bir neden olmasa dahi sunucu reklamlarını kaldırabilir.**
 
+
+
     ​	
 **Sizin Haklarınız**
 
